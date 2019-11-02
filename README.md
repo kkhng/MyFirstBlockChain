@@ -7,5 +7,5 @@
 ###### 3. Print BlockChain
 
 
-##### Project codes: https://github.com/kkhng/MyFirstBlockChain
+##### Codes: https://github.com/kkhng/MyFirstBlockChain
 
