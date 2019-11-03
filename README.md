@@ -1,4 +1,4 @@
-#### A simple project to understand BlockChain Mining. I learned it in a Big Data Analysis course I took back in the year 2018.
+#### A simple project to understand BlockChain Mining. I learned it from a Big Data Analysis course I took back in the year 2018.
 
 ### Tasks:
 
