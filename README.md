@@ -2,12 +2,12 @@
 
 ### Tasks:
 
-##### 1. Create Block
-##### 2. Create BlockChain
-##### 3. Print BlockChain
+###### 1. Create Block
+###### 2. Create BlockChain
+###### 3. Print BlockChain
 
 
-##### Codes: [https://github.com/kkhng/MyFirstBlockChain]( https://github.com/kkhng/MyFirstBlockChain)
+#### Codes: [https://github.com/kkhng/MyFirstBlockChain]( https://github.com/kkhng/MyFirstBlockChain)
 
 Below is a summary I wrote based on my understanding to the White Paper [Nakamoto, Satoshi. (2009). Bitcoin: A Peer-to-Peer Electronic Cash System. Cryptography Mailing list at [https://metzdowd.com](https://metzdowd.com)
 
