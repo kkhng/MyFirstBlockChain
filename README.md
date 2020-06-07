@@ -2,9 +2,9 @@
 
 ### Tasks:
 
-###### 1. Create Block
-###### 2. Create BlockChain
-###### 3. Print BlockChain
+##### 1. Create Block
+##### 2. Create BlockChain
+##### 3. Print BlockChain
 
 
 ##### Codes: [https://github.com/kkhng/MyFirstBlockChain]( https://github.com/kkhng/MyFirstBlockChain)
