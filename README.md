@@ -9,7 +9,7 @@
 
 #### Codes: [https://github.com/kkhng/MyFirstBlockChain]( https://github.com/kkhng/MyFirstBlockChain)
 
-#### Below is a summary I wrote based on my understanding to the White Paper [Nakamoto, Satoshi. (2009). Bitcoin: A Peer-to-Peer Electronic Cash System. Cryptography Mailing list at [https://metzdowd.com](https://metzdowd.com)
+#### Below is a summary I wrote based on my understanding to the White Paper [Nakamoto, Satoshi. (2009). Bitcoin: A Peer-to-Peer Electronic Cash System. Cryptography Mailing list at [https://metzdowd.com](https://metzdowd.com)]
 
 #### If you are interested to know more, you can download the original paper from this link: [https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf) 
 
